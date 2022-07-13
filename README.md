@@ -3,7 +3,7 @@
 merupakan sistem sederhana pendeteksi barang-barang pembelian yang mencurigakan
 yang akan digunakan untuk tindakan kriminal seperti pembunuhan, perampokan, dan penggunaan obat obat terlarang
 
-## KELOMPOK KERJA PRAKTIK
+## KELOMPOK KERJA PRAKTIK PT.PROCODECG
 ### AGUSTIO
 ### ARIQ ADITYA
 ### HARRY PRASETYA
