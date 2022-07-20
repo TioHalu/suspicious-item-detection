@@ -1,0 +1,107 @@
+﻿Column1
+Customer ID Member,Customer Names,Date,ID Barang,Nama Barang,Kode
+b7dc3d29-56e0-47e0-8059-553bdff1f0cd,Aayan Arnold,22/09/2022,65772,Knife,A1
+b7dc3d29-56e0-47e0-8059-553bdff1f0cd,Aayan Arnold,22/09/2022,35857,Hammer,A1
+a69f9446-c480-4a84-91b3-601fe5b5ca21,Abdurahman Davey,23/09/2022,43a92,Knife,A1
+48cf3882-eba3-4d43-88c2-e836e3c782c2,Abubakar Sinclair,24/09/2022,65772,Suitcase,A1
+a5e03744-6522-48bd-9574-b4fbc1f9d53c,Adeel Cole,25/09/2022,ca94b,Detergent,A2
+fe565941-b7ff-4a72-9b18-2fa79aa5daaf,Affan Cantu,26/09/2022,dcab9,Bleach,A2
+a17dec61-5e2f-45e3-bab3-a52737691c96,Aimee Conrad,27/09/2022,6d840,Ski mask,A2
+514c91cc-c057-4897-952f-59492c784059,Alessio Roth,28/09/2022,7d74a,Shovel,A1
+9b1cd3f4-9f2a-4df4-afbe-fc505ac64445,Amirah Hampton,30/11/2022,77017,Rope,A2
+e6135b4c-924a-4f8c-b443-807bd28b6a40,Ammar Plummer,01/12/2022,13746,Gloves,A1
+d36999c6-a44c-4f48-9d33-d779223ec0d1,Ammarah Peters,02/12/2022,1ad36,Razor,A1
+3f17b5f3-c86b-4b45-bccb-bc13b5aecbac,Annabel Montes,02/11/2022,71476,Pressure Cooker,A1
+75a40f27-e67c-4038-b232-f9b43080530d,Aqsa Graves,03/11/2022,b21d0,Duct Tape,A2
+9e7636b5-61e9-48eb-bd99-5655863df47b,Aran Jimenez,04/11/2022,7aa70,Pregnancy Test,A1
+6b4dcd98-3e93-4b16-ae6c-e1e2ce225023,Astrid Wise,05/11/2022,1b200,Black Powder,A1
+84dd6a8c-d23e-4b34-b9cf-ffffe4df94ee,Bertie Vang,06/11/2022,da78c,Clorox,A2
+08f73d57-e7f9-455a-bdf1-cb5a655fedce,Bibi Lennon,07/11/2022,d88a7,Chainsaw,A1
+953a0755-380d-4bd7-88f7-505cc51df7a7,Bogdan Whiteley,08/11/2022,8874d,Axe,A1
+ac629b67-7e05-4bb3-a00b-3a8d6a1ee713,Carlton Patterson,09/11/2022,dda65,Nitrile Gloves,A1
+5a712f58-e34e-40ea-8cdb-50674048fe8d,Carwyn Wilks,11/11/2022,794a0,Citrus Fruits,A1
+7c8be854-5fe4-4ac8-9933-df25ca46502f,Chanelle Blackburn,12/11/2022,441a3,Sleeping pills,A2
+37f958c5-199c-42c4-a44f-ad31e1d45428,Charlize Ramsey,13/11/2022,27d8b,Zip Ties,A2
+cc2711f6-cfc2-44e8-bc47-f609e80c22ca,Chelsea Deacon,14/11/2022,D0d09,Tarp,A1
+7ea3a7e1-5c91-4da0-9654-1d4051fa5ebb,Christian Macfarlane,15/11/2022,56c35,Boxes of Screws,A1
+c949cba7-9d1d-4b27-bbc1-3d59b9e995f0,Christina Childs,16/11/2022,71555,Isoprophyl Alcohol,A2
+87783c60-df20-4cd6-ac8b-1f3f99a1ba6c,Conal Wright,17/11/2022,5dd6a,Plastic Bag,A1
+2ff5256d-71fb-42ba-ac3c-5ad95b467776,Cora Parkinson,18/11/2022,1ad36,Razor,A1
+6d0cd949-4d0d-44fe-9b78-ac5cac54714b,Daisie Salgado,19/11/2022,da78c,Clorox,A2
+0aa79901-fd86-4fc2-b4ee-ad6eac8a0f5a,Derry Parry,20/11/2022,43a92,Knife,A1
+23a43420-9237-4688-abc7-1e3a7d0577b0,Douglas Gomez,21/11/2022,8874d,Axe,A1
+f39b8a6b-b54f-4281-8035-e799ff962161,Eiliyah Serrano,22/11/2022,7aa70,Pregnancy Test,A1
+78ceed85-7ce4-4812-97ec-bd3adda1b61d,Eli Cortez,23/11/2022,77017,Rope,A2
+6bc36d50-4b30-43d0-911a-0857809303bb,Elise Estrada,24/11/2022,dcab9,Bleach,A2
+23c7fab4-573c-4060-b9f1-7413617970de,Ellen Thorne,25/11/2022,13746,Gloves,A1
+7f61e6a3-1f0f-473f-9421-2efb2af61f9a,Evan Duggan,26/11/2022,dda65,Nitrile Gloves,A1
+0dd47084-e529-4559-b48b-d2ce11b78869,Ewan Bean,27/11/2022,65772,Suitcase,A1
+7c01611a-8ab5-450c-a05e-2a1406d87fe5,Fannie Short,13/08/2022,dcab9,Bleach,A2
+c2ed5db5-49a7-4124-93d8-3510c7b6213a,Fathima Holmes,14/08/2022,5dd6a,Plastic Bag,A1
+b51887e3-de1a-4e8d-aa22-f2156436bb88,Flora Weiss,15/08/2022,b21d0,Duct Tape,A2
+38fc1bdc-05ab-4bf1-81fa-e98b822d345b,Flynn Vaughan,09/10/2022,8874d,Axe,A1
+b314893c-7d66-4ec2-88f8-6f5c63ed6ff9,Gerard Crosby,10/10/2022,dda65,Nitrile Gloves,A1
+409ec413-16b6-4e90-993e-c99363ea6e10,Gillian Irwin,13/10/2022,7d74a,Shovel,A1
+41f7a62b-0df5-4940-9362-89fa172a860b,Giovanni Guerra,14/10/2022,13746,Gloves,A1
+77a7533e-bfa7-4b96-9394-3ab121fe1028,Habibah Contreras,15/10/2022,d88a7,Chainsaw,A1
+1f5db8ec-2795-4b37-9217-172f5325ec1f,Harlee Sanchez,16/10/2022,65772,Suitcase,A1
+a1266502-e66a-4480-a3a4-bc387eb593e0,Hira Mcdougall,17/10/2022,1ad36,Razor,A1
+1192a736-17a1-4391-b824-73a6a8b22674,Hoorain Wardle,18/10/2022,b21d0,Duct Tape,A2
+e02b851a-9142-4424-a761-a29213a7b636,Huda Watson,19/10/2022,1ad36,Razor,A1
+925d7e2b-73f6-4d4c-8438-f59df8a36160,Huma Noble,20/10/2022,da78c,Clorox,A2
+214260db-af17-4752-9acc-b34580ba52be,Isobel Brooks,21/10/2022,441a3,Sleeping pills,A2
+1862b5b8-a2ed-42ac-ae7f-04ccab9ab42c,Isobella Cummings,18/11/2022,43a92,Knife,A1
+4cfa989d-2ca6-4a1b-8202-71ba3eab8f70,Izzy Barnett,16/11/2022,d88a7,Chainsaw,A1
+6de402b2-18ae-49c6-9de5-56bacb75855f,Janet Matthews,01/08/2022,65772,Suitcase,A1
+60395d14-3a8e-4d0d-979e-59caa0431aa2,Joe Duffy,02/08/2022,dcab9,Bleach,A2
+27e3609c-058a-4728-93f8-6e18a19853d5,Jordan Ahmed,03/08/2022,71476,Pressure Cooker,A1
+102a99d3-ced6-4fd6-89bb-40c5334c8209,Kaden Hays,04/08/2022,7aa70,Pregnancy Test,A1
+6abef807-06b1-4627-b2e6-42416d172fd5,Kayden Hardin,05/08/2022,1b200,Black Powder,A1
+5a1a7734-b2b8-43ea-935e-b2dc895450d4,Keiran Dotson,06/08/2022,1ad36,Razor,A1
+4aa545f0-3690-4ae4-9524-3837d4c08fd2,Kendra Milne,07/08/2022,D0d09,Tarp,A1
+e7ce8ab4-3f02-4c33-8cb1-13ab8b4b1536,Keziah Leal,08/08/2022,71476,Pressure Cooker,A1
+f4c2f290-8cf7-46bc-8a2e-275df20e0ba5,Khadija Barrett,19/08/2022,77017,Rope,A2
+3e147819-0b92-4daa-9c10-5c1c2d0f058a,Kieron Thompson,28/11/2022,441a3,Sleeping pills,A2
+1621dc5e-2e86-4484-8ca7-0206efb6558f,Korey Pruitt,29/11/2022,ca94b,Detergent,A2
+873478bc-5f51-4f7a-bae9-abe6cb503e5c,Latoya Cullen,30/12/2022,b21d0,Duct Tape,A2
+3ca67317-c090-4c49-9fb3-5660525477d5,Lily-May Kennedy,31/12/2022,5dd6a,Plastic Bag,A1
+c0e61652-6349-4966-80b7-3896b699c885,Liyana Conway,01/01/2023,56c35,Boxes of Screws,A1
+843e0e0c-f4a4-41fb-8f3b-323ff3c43e6d,Madeline Battle,02/01/2023,5dd6a,Plastic Bag,A1
+55f7db5b-095a-4672-833c-439299f34df3,Madihah Healy,03/01/2023,1ad36,Razor,A1
+d5f8dfba-1642-44d0-bc1d-01844a679577,Malaika Bowes,04/01/2023,35857,Hammer,A1
+c01eac4a-1c50-4ae4-8d5c-789a239e811d,Mallory Grainger,05/01/2023,77017,Rope,A2
+540dcb21-312d-436d-8c20-eba57ba54c52,Matas Griffin,06/10/2022,D0d09,Tarp,A1
+132cebd4-94b1-4568-a63a-b2b735f57efc,Megan Ruiz,31/07/2022,71555,Isoprophyl Alcohol,A2
+207d30d8-f339-4da6-b02f-2baeb87eab0a,Mercedes Foley,31/10/2022,dcab9,Bleach,A2
+6d16bbe0-a47e-407b-b818-76db0b331842,Mikail Millar,01/11/2022,ca94b,Detergent,A2
+24daebcd-57ab-4f3b-8f4c-6d2ec7d5ee88,Millie-Rose Strickland,15/07/2022,6d840,Ski mask,A2
+24daebcd-57ab-4f3b-8f4c-6d2ec7d5ee88,Millie-Rose Strickland,15/07/2022,13746,Gloves,A1
+24daebcd-57ab-4f3b-8f4c-6d2ec7d5ee88,Millie-Rose Strickland,15/07/2022,43a92,Knife,A1
+24daebcd-57ab-4f3b-8f4c-6d2ec7d5ee88,Millie-Rose Strickland,15/07/2022,65772,Suitcase,A1
+24daebcd-57ab-4f3b-8f4c-6d2ec7d5ee88,Millie-Rose Strickland,15/07/2022,77017,Rope,A2
+a56b32aa-c27c-4494-b6d8-0de5f0b876b7,Minnie Sweeney,16/07/2022,13746,Gloves,A1
+66d91ff2-42cc-4971-9030-784fc7b964ea,Morris Brook,17/07/2022,6d840,Ski mask,A2
+92577310-c512-4923-b156-9cb40624a61c,Muna Ahmad,18/07/2022,65772,Suitcase,A1
+7f8e3eba-de0a-4254-8cd4-e18b41e4b6d5,Naima Tillman,19/07/2022,b21d0,Duct Tape,A2
+761edc9b-9b8f-4847-a78b-757f9eb47ff3,Niall Ayala,20/07/2022,1b200,Black Powder,A1
+dc655b1a-1648-4d8c-9783-8c74f61ade62,Nojus Swan,21/07/2022,71476,Pressure Cooker,A1
+adf98722-6086-4f9c-9bbf-a6c0042d39f5,Nora Pritchard,18/12/2022,5dd6a,Plastic Bag,A1
+95628682-c8dc-4b15-bfcc-30c3933018a0,Nusaybah Dolan,12/08/2022,8874d,Axe,A1
+ddddba5c-6732-4dc9-8f65-a64761278bd3,Oisin Case,02/09/2022,dda65,Nitrile Gloves,A1
+5cd5842d-6069-41d5-b1e2-b85851fb6446,Remy Knott,03/09/2022,27d8b,Zip Ties,A2
+0becf31b-f0f1-42f6-9b6e-36b8b27f4da6,Rosalind Lacey,17/09/2022,dcab9,Bleach,A2
+5716b3d0-6f08-485c-bf26-6b01d9eeb38d,Roza Suarez,18/09/2022,35857,Hammer,A1
+1d7c400f-a353-40a9-b73d-8a1f7c096445,Ryker Horn,19/09/2022,d88a7,Chainsaw,A1
+1a4f66e6-a4d0-46e2-9b6f-0752680b1fb7,Saoirse Delgado,20/09/2022,1b200,Black Powder,A1
+f4ffb32e-f0bf-4d8c-a454-a61c9d02a284,Sean Woodley,21/09/2022,441a3,Sleeping pills,A2
+733296a5-5f81-4b76-abda-c8c8d43073ec,Selina Burke,22/09/2022,8874d,Axe,A1
+67e27540-beb1-453f-8e9f-e261df1dadcf,Shakir Lopez,23/09/2022,dda65,Nitrile Gloves,A1
+dc16886e-68db-4a29-8ced-cd0a120414a2,Sheila Blackmore,21/12/2022,dcab9,Bleach,A2
+6c338f72-5a8f-4dcd-ac73-074abae9aaee,Shona Beck,22/12/2022,7aa70,Pregnancy Test,A1
+4e4e1174-4afd-42b5-9a34-fb7db0d8746d,Simrah Mccullough,23/12/2022,13746,Gloves,A1
+c2a1572b-c4ea-4c3f-9419-b1c8188cd29f,Subhaan Knights,24/12/2022,6d840,Ski mask,A2
+39c0b782-89a3-496f-824d-cc5ce6fb51be,Tommy-Lee Lugo,25/12/2022,71555,Isoprophyl Alcohol,A2
+6f7a8be2-ca99-4ba7-b355-016e7b09db92,Tyson Johnston,26/12/2022,71476,Pressure Cooker,A1
+af6a14bd-85ac-48fc-b530-ebbbacb283ec,Vienna Wynn,27/12/2022,441a3,Sleeping pills,A2
+26e3c120-1d58-432a-a7bd-bedd79211a1b,Vinay Fraser,26/07/2022,65772,Suitcase,A1
+74deafd9-8689-427d-8718-f8e0c506e30c,Waseem Griffith,25/07/2022,77017,Rope,A2
