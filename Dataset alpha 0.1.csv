@@ -1,0 +1,37 @@
+﻿Column1
+ID,Items,Probability Value,Potential Criminal Usage
+1,Citrus Fruits,1,Remove Evidence
+2,Bleach,2,Remove Evidence
+3,UV Light,3,Remove Evidence
+4,Alcohol,3,Remove Evidence
+5,Plastic Bag,2,Remove Evidence
+6,Lye,3,Remove Evidence
+7,Reciprocating Saw,3,Remove Evidence
+8,Shovel,3,Remove Evidence
+9,Tarp,3,Remove Evidence
+10,Zip Ties,4,Kidnap
+11,Rope,4,Kidnap
+12,Chlorox,5,Kidnap
+13,Ski Mask,5,Kidnap
+14,Gloves,5,Kidnap
+15,Melatonin Gummies,4,Kidnap
+16,Certain Medications,7,Narcotics
+17,Sleeping Pills,6,Narcotics
+18,Big Cooking Pot,6,Narcotics
+19,Camping Stove,6,Narcotics
+20,Fuel,6,Narcotics
+21,Ammonium Nitrate,8,Craft Explosive
+22,Ammonium Pechlorate,8,Craft Explosive
+23,Tannerite,9,Craft Explosive
+24,Boxes of Screws,8,Craft Explosive
+25,Pressure Cooker,8,Craft Explosive
+26,Black Powder,9,Craft Explosive
+27,Hammer,12,Murder
+28,Chainsaw,12,Murder
+29,Suitcase,10,Murder
+30,Shovel,10,Murder
+31,Razor,10,Murder
+32,Knife,12,Murder
+33,Axe,12,Murder
+34,Baseball Bat,12,Murder
+35,Rat Poison,11,Murder
