@@ -10,18 +10,18 @@ import matplotlib.pyplot as plt
 
 st.title("Pendeteksi Item Mencurigakan")
 
-data = pd.read_csv('./Dataset alpha 0.1.csv')
+data = pd.read_csv('./DatasetAlpha0.3.csv')
 st.subheader("Data training")
 data
 
 st.subheader("Visualisasi data training")
 fig, ax = plt.subplots()
-for PCU, d in data.groupby('Potential Criminal Usage'):
-    ax.scatter(d['ID'], d['Probability Value'], label=PCU)
+for PCU, d in data.groupby('Potential_Criminal_Usage'):
+    ax.scatter(d['Harga(Rp)'], d['Weight(g)'], label=PCU)
 st.pyplot(fig)
 
-x_train = np.array(data[['ID','Probability Value']])
-y_train = np.array(data['Potential Criminal Usage'])
+x_train = np.array(data[['Harga(Rp)','Weight(g)']])
+y_train = np.array(data['Potential_Criminal_Usage'])
 
 from sklearn.preprocessing import LabelBinarizer
 lb = LabelBinarizer()
@@ -36,18 +36,20 @@ model.fit(x_train, y_train)
 
 # data baru predikti
 st.title("contoh prediksi satu data")
-data_id = 10
-data_probability = 7
-x_new = np.array([[data_id, data_probability]]).reshape(1, -1)
+"berat 850 harga 1800000"
+berat = 850
+harga = 1800000
+x_new = np.array([[harga, berat]]).reshape(1, -1)
 y_new = model.predict(x_new)
 test = lb.inverse_transform(y_new)
 test
 
 # prediksi
 st.subheader("contoh prediksi beberapa item")
-datanew = pd.read_csv('./PembunuhanItemrevisi.csv')
-
-x_test = np.array(datanew[['ID','Probability Value']])
+"table struk belanja alexwilliams"
+datanew = pd.read_csv('./Receipts/Receipts_AlexWilliams.csv')
+datanew
+x_test = np.array(datanew[['Price(IDR)','Weight']])
 y_pred = model.predict(x_test)
 trans = lb.inverse_transform(y_pred)
 lenght_pred = len(trans)

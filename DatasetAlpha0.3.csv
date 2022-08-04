@@ -1,5 +1,4 @@
-﻿Column1
-ID,Items,Potential_Criminal_Usage,Weight(g),Harga(Rp)
+﻿ID,Items,Potential_Criminal_Usage,Weight(g),Harga(Rp)
 1,Citrus_Fruits,Remove_Evidence,1000,44000
 2,Bleach,Remove_Evidence,1300,15000
 3,UV_Light,Remove_Evidence,2000,275000

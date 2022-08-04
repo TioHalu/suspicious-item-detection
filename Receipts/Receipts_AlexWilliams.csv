@@ -1,5 +1,4 @@
-﻿Column1
-Customer_ID,Customer_Name,Items_Name,Weight,Price(IDR),HP_Num,Address
+﻿Customer_ID,Customer_Name,Items_Name,Weight,Price(IDR),HP_Num,Address
 6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Ammonium_Nitrate,850,1800000,62812345678,Ciganitri
 6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Ammonium_Pechlorate,1100,330000,62812345678,Ciganitri
 6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Black_Powder,453,30000,62812345678,Ciganitri
