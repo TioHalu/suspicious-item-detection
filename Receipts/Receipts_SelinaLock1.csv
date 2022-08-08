@@ -1,0 +1,8 @@
+﻿Column1
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10
+Customer_ID,Customer_Name,Items_Name,Items_ID,Item_Categories,Category_ID,Weight,Price(IDR),HP_Num,Address
+41b32d45-1e7c-4109-9488-ba1c207a501d,Selina_Lock,Ammonium_Nitrate,16435,Chemical,24598,850,1800000,62895147895,Bojonggede
+41b32d45-1e7c-4109-9488-ba1c207a501d,Selina_Lock,Razor,54481,Shavings,30551,153,2000,62895147895,Bojonggede
+41b32d45-1e7c-4109-9488-ba1c207a501d,Selina_Lock,Reciprocating_Saw,91763,Carpentry_Tools,33673,2200,544000,62895147895,Bojonggede
+41b32d45-1e7c-4109-9488-ba1c207a501d,Selina_Lock,Fuel,20149,Chemical,24598,1300,12400,62895147895,Bojonggede
+41b32d45-1e7c-4109-9488-ba1c207a501d,Selina_Lock,Zip_Ties,81680,Binding_Tools,70035,75,7500,62895147895,Bojonggede

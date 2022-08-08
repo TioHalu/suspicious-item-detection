@@ -1,0 +1,7 @@
+﻿Column1
+Customer_ID,Customer_Name,Items_Name,Items_ID,Item_Categories,Category_ID,Weight,Price(IDR),HP_Num,Address
+6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Ammonium_Nitrate,24598,Chemical,16435,850,1800000,62812345678,Ciganitri
+6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Ammonium_Pechlorate,77838,Chemical,24598,1100,330000,62812345678,Ciganitri
+6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Black_Powder,39040,Chemical,24598,453,30000,62812345678,Ciganitri
+6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Ski_Mask,52762,Sport,82223,225,55000,62812345678,Ciganitri
+6b1b5087-98bc-458b-aa79-9b987473f0b3,Alex_Williams,Rope,3990,Binding_Tools,70035,420,16500,62812345678,Ciganitri

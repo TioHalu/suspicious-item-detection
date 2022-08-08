@@ -1,0 +1,9 @@
+﻿Column1
+Customer_ID,Customer_Name,Items_Name,Items_ID,Item_Categories,Category_ID,Weight,Price(IDR),HP_Num,Address
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Lye,38011,Chemical,24598,1100,50000,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Lye,38011,Chemical,24599,1100,50000,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Trash_Bag,56489,Plastic,92507,700,14000,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Shovel,53216,Gardening_Tools,19692,1600,267750,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Bleach,34102,Chemical,24598,1300,15000,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Tarp,86023,Plastic,92507,540,28500,62825789965,Hollywood
+72187784-27a1-4004-ad27-7437bd9c43e5,Bella_Rodrick,Tarp,86023,Plastic,92507,540,28500,62825789965,Hollywood
